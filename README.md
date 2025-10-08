@@ -93,6 +93,9 @@ The Power BI dashboard consists of **one interactive page** designed for quick i
 3. Hover over visuals to view detailed tooltips and comparisons.  
 4. Analyze trends and KPIs to discover actionable insights.
 
+## For live you can click on here
+https://app.powerbi.com/view?r=eyJrIjoiZWI2Y2NiNTItZWU1Zi00ODA3LWE0NjgtYjQ2OGZhNDZhYzgxIiwidCI6IjdhNmRlNDA0LWI0YzEtNGU0OC1iNGQ3LWQzYTk3M2ZjOWQ4ZiIsImMiOjEwfQ%3D%3D
+
 
 
 
