@@ -55,7 +55,7 @@ The Power BI dashboard consists of **one interactive page** designed for quick i
   - Total Gross Margin  
   - Total Marketing Spend  
   - Total Net Profit  
-  - Profit Margin %
+  - COGS
 
 - **Line Chart:**  
   Monthly and yearly trend of Revenue, Net Profit, and Quantity Sold.
