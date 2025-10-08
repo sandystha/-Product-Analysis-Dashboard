@@ -1,5 +1,7 @@
 # 📊 Product Analysis Dashboard – Power BI
 
+![Product Analysis Dashboard](Dashboard/marketing_dashboard.png)
+
 ### 🚀 Project Overview
 The **Product Analysis Dashboard** provides actionable insights into product performance, regional sales, and profitability trends.  
 This dashboard was designed to help management understand **which products, regions, and brands drive business growth**, identify low-performing areas, and make informed strategic decisions.
